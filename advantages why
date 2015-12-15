@@ -1,0 +1,12 @@
+from original paper "Human-level concept learning through probabilistic program induction"
+1 (1335)BPL’s advantage points to the benefits of modeling the underlying causal process in learning concepts, 
+a strategy different from the particular deep learning approaches.
+This is to say: among the three key ideas (compositionality, causality, and learning to learn), causality contributes 
+much more than the others.
+
+2 (1336)Machine learning and computer vision researchers are beginning to explore methods based on
+simple program induction(36–41), and our results show that this approach can perform one-shot
+learning in classification tasks at human-level accuracy and fool most judges in visual Turing tests
+of its more creative abilities.
+It (BPL) lacks explicit knowledge of parallel lines, symmetry, optional elements such as cross bars
+in “ 7” s, and connections between the ends of strokes and other strokes.
